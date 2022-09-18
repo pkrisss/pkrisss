@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkrisss
 - 👀 I’m interested in development and blockchain
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on new projects with crypto
 - 📫 How to reach me on twitter @kpeyovski
 
