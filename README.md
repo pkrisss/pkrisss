@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on new projects with crypto
 - 📫 How to reach me , u can folloq me on twitter @kpeyovski
+- lets build an anpp
 
 <!---
 pkrisss/pkrisss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
